@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Restaurant/static/css/main.505776dd.css",
+    "main.js": "/Restaurant/static/js/main.82a441fc.js",
+    "static/js/453.3257c68d.chunk.js": "/Restaurant/static/js/453.3257c68d.chunk.js",
+    "static/media/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg": "/Restaurant/static/media/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.11f2599eff36d0a63c90.jpg",
+    "static/media/dosa.jpg": "/Restaurant/static/media/dosa.13c5d335ef31ee8f853f.jpg",
+    "static/media/corn.jpg": "/Restaurant/static/media/corn.6b4855e70bc02f19117d.jpg",
+    "static/media/biryani.jpg": "/Restaurant/static/media/biryani.a04fbaf1be6114636cdb.jpg",
+    "static/media/donut.jpg": "/Restaurant/static/media/donut.a87017474ffd80395373.jpg",
+    "static/media/chicken kebab.jpg": "/Restaurant/static/media/chicken kebab.1bb231947c667f3a414e.jpg",
+    "static/media/cookies.jpg": "/Restaurant/static/media/cookies.810c4bd38b1108240205.jpg",
+    "static/media/dahi vada.jpg": "/Restaurant/static/media/dahi vada.76106a63b0b4fd37e3ab.jpg",
+    "static/media/candy.jpg": "/Restaurant/static/media/candy.d3df16f732387eacee58.jpg",
+    "static/media/thor.jpg": "/Restaurant/static/media/thor.b6e83fe64cd77ab2ab46.jpg",
+    "static/media/wolverine.avif": "/Restaurant/static/media/wolverine.a09c772ad705fa3edf71.avif",
+    "static/media/restaurant-logo.jpg": "/Restaurant/static/media/restaurant-logo.e942f8bd8c96f1c8ffb9.jpg",
+    "static/media/captainmarvel.jpg": "/Restaurant/static/media/captainmarvel.e95ef64bdddfd69ec7e5.jpg",
+    "static/media/wanda.avif": "/Restaurant/static/media/wanda.510d0ec63e7fe4dc3cbd.avif",
+    "static/media/blackwidow.avif": "/Restaurant/static/media/blackwidow.a251880491ebfabeeb9d.avif",
+    "static/media/amazing-delicious-cheese-burger_727939-299.avif": "/Restaurant/static/media/amazing-delicious-cheese-burger_727939-299.31e47750aef1c02d5e1f.avif",
+    "index.html": "/Restaurant/index.html",
+    "main.505776dd.css.map": "/Restaurant/static/css/main.505776dd.css.map",
+    "main.82a441fc.js.map": "/Restaurant/static/js/main.82a441fc.js.map",
+    "453.3257c68d.chunk.js.map": "/Restaurant/static/js/453.3257c68d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505776dd.css",
+    "static/js/main.82a441fc.js"
+  ]
+}
